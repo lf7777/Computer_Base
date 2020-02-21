@@ -1,0 +1,14 @@
+CMOS(Complementary Metal Oxide Semiconductor)
+     互补金属氧化物半导体存储器
+计算机主板上的一块可读写的芯片.
+
+BIOS(Basic Input/Out System):安装在CMOS里简易的操作系统的软件
+     基本输入/输出系统
+
+最主要作用 : 初始化硬件
+	     检测硬件功能
+	     引导操作系统
+
+其他作用:通过这个操作系统,保存计算机硬件的基本信息,还有时间参数.
+
+
